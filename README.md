@@ -11,3 +11,11 @@ Este é um projeto desenvolvido para apresentar informações sobre algumas pess
 
 ## 🎯 Objetivo
 O objetivo deste projeto é treinar habilidades de desenvolvimento web, como a criação de layouts responsivos, uso de animações e boas práticas no design de páginas. Futuramente, pretendo adicionar mais interatividade utilizando JavaScript.
+
+## 🚀 Melhorias Futuras
+- Adicionar mais personalidades
+- Implementar transições e interações com JavaScript
+- Criar um sistema de pesquisa para encontrar personalidades
+
+- ## 📝 Licença
+- Sinta-se livre para usá-lo e modificá-lo!
